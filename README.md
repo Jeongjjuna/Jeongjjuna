@@ -33,8 +33,8 @@
 
 > 🌱 스터디
 
-| Project | Repository | Learning Log |
-|:-----:|:---|:---:|
+| Study | Repository |  |
+|:-----|:---|:---:|
 |이펙티브 자바 & 이펙티브 코틀린 독서|[독서](https://github.com/Jeongjjuna/effective)|<img src="https://github.com/user-attachments/assets/84cbe6ff-18c7-4897-8927-30055ab5c386" width="150px"/>|
 |업무에 바로쓰는 SQL 튜닝 독서 |[독서](https://wlgns2305.tistory.com/category/%EC%8A%A4%ED%84%B0%EB%94%94/%EC%97%85%EB%AC%B4%EC%97%90%20%EB%B0%94%EB%A1%9C%20%EC%93%B0%EC%9D%B4%EB%8A%94%20SQL%20%ED%8A%9C%EB%8B%9D)|<img src="https://github.com/user-attachments/assets/5779e625-4038-4953-86ac-900e3d69f64b" width="150px"/>|
 |next-step 자바 플레이그라운드|[repository(숫자야구)](https://github.com/Jeongjjuna/next-step-baseball-playground)<br> [repository(자동차경주)](https://github.com/Jeongjjuna/next-step-racingcar-playground)<br> [repository(좌표계산기)](https://github.com/Jeongjjuna/next-step-coordinate-playground/tree/develop)<br> [repository(블랙잭)](https://github.com/Jeongjjuna/next-step-blackjack-playground)<br>|<img src="https://github.com/user-attachments/assets/0fdef9bb-e288-4a9a-8486-4d7a78f5b06d" width="150px"/>|
