@@ -1,4 +1,4 @@
-## 🍬✨안녕하세요, 백엔드 엔지니어 정지훈입니다~!
+## 🍬✨ Jeong Jihun
 
 
 <div align="left">
