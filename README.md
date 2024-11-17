@@ -56,7 +56,7 @@
 
 
 ## Education
-전남대학교 전자정보통신공학 전공 2017.03 ~ 2023.02 <sub>[운영체제, 이산수학, 알고리즘, 자료구조, 고급 프로그래밍 실습 등 수료]</sub>
+전남대학교 전자정보통신공학 전공 <sub>2017.03 ~ 2023.02 [운영체제, 이산수학, 알고리즘, 자료구조, 고급 프로그래밍 실습 등 수료]</sub>
 
 - [한이음경진대회](https://github.com/Jeongjjuna/hanium-calldrone) | 자율주행 드론배달 프로젝트 <sub> 2022.5 ~ 2022.9 #python #django #javascript #websocket #ubuntu #jetson nano</sub>
 - [캡스톤디자인](https://github.com/Jeongjjuna/iDEAFree) | 휴대용 양방향 수화번역 장치 <sub> 2022.3 ~ 2022.6 #python #c# #unity3d #jetson nano</sub>
