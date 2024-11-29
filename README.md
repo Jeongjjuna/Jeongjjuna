@@ -36,8 +36,8 @@
 
 
 ## Projects
-- [CStar](https://github.com/FreakPeople/freak-CStar-backend) | 컴퓨터 공학 퀴즈 웹 애플리케이션(백엔드) <sub> 2024.5 #kotlin #springboot #junit #mysql #redis #aws #github actions #docker #react</sub>
-- [Devtoon](https://github.com/FreakPeople/freak-devtoon-back) | 개발자 유머짤 공유 플랫폼 프로젝트(백엔드) <sub> 2024.9 #java #springboot #junit #mysql #github actions #docker #react</sub>
+- [CStar](https://github.com/FreakPeople/freak-CStar-backend) | 컴퓨터 공학 퀴즈 웹 애플리케이션(백엔드) <sub> 2024.9 #kotlin #springboot #junit #mysql #redis #aws #github actions #docker #react</sub>
+- [Devtoon](https://github.com/FreakPeople/freak-devtoon-back) | 개발자 유머짤 공유 플랫폼 프로젝트(백엔드) <sub> 2024.5 #java #springboot #junit #mysql #github actions #docker #react</sub>
 - [Purchase](https://github.com/Jeongjjuna/reservation_purchase) | 주문 트래픽에 시나리오 실습(백엔드) <sub> 2024.2 #java #springboot #springcloud #junit #mysql #redis</sub>
 - [Delivery](https://github.com/Jeongjjuna/delivery) | 배달을 주제로한 rest api 실습(백엔드) <sub> 2023.11 #java #springboot #junit #mysql</sub>
 
