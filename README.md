@@ -46,7 +46,7 @@
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Java-8B4513?style=flat-square&logo=java&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/MySQL-015f86?style=flat-square&logo=mysql&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Redis-d3271a?style=flat-square&logo=redis&logoColor=white">&nbsp 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">&nbsp
