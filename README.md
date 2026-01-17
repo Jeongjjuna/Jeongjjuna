@@ -30,10 +30,10 @@
 <br>
 
 ## 관심 분야
-- 도메인 중심 설계와 책임이 드러나는 구조
-- 테스트 가능한 구조와 변경에 안전한 시스템 설계
-- AI Agent 를 활용한 생산성 향상
-- EDA 기반의 분산 시스템 설계
+도메인 중심 설계와 책임이 드러나는 구조 <br>
+테스트 가능한 구조와 변경에 안전한 시스템 설계 <br>
+AI Agent 를 활용한 생산성 향상 <br>
+EDA 기반의 분산 시스템 설계 <br>
 
 <br>
 
@@ -72,9 +72,5 @@
 
 
 ## Problem Solving
-<a href="https://github.com/jeongjjuna">
-    <img align="center" style="height: 175px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" src="https://github-readme-stats.vercel.app/api?username=Jeongjjuna&show_icons=true&hide_border=true&title_color=cff0ff&icon_color=ffa726&text_color=daf7dc&bg_color=263238&count_private=true&include_all_commits=true"/>
-</a>
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgns2234)](https://solved.ac/wlgns2234/)
 
