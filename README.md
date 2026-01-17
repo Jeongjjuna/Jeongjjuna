@@ -27,21 +27,33 @@
 </pre>
 
 
+
 <br>
 
-## 관심 분야
-도메인 중심 설계와 책임이 드러나는 구조 <br>
-테스트 가능한 구조와 변경에 안전한 시스템 설계 <br>
-AI Agent 를 활용한 생산성 향상 <br>
-EDA 기반의 분산 시스템 설계 <br>
+## 안녕하세요, 현재 서버 엔지니어로 일하고 있습니다.
+
+- 🌱 Currently learning:  
+  AI-powered automation, Platform Engineering,  
+  event-driven systems and scalable backend architectures
+
+- 🤖 Interested in:  
+  AI Agents for productivity, domain-driven design,  
+  and building distributed systems with clear responsibilities
+
+- 💬 Ask me about:  
+  Kotlin, Spring Boot, backend design,  
+  testable architectures and maintainable system structures
+
 
 <br>
 
 ## 활용 가능한 개발 기술들
 <div>
+  🌱
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Java-8B4513?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 </div>
 <div>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
