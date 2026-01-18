@@ -57,13 +57,12 @@
 <div>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white">
-
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white">
 </div>
 <div>
   <img src="https://img.shields.io/badge/SQL-015f86?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-d3271a?style=flat-square&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white">
-
 </div>
 <div>
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
