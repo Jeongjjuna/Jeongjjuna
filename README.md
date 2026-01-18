@@ -41,7 +41,7 @@
   and building distributed systems with clear responsibilities
 
 - 💬 Ask me about:  
-  Kotlin, Spring Boot, backend design,  
+  Kotlin, Java, Spring Boot, backend system design,  
   testable architectures and maintainable system design
 
 
