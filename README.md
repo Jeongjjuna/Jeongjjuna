@@ -32,6 +32,7 @@
 
 ## 안녕하세요, 현재 서버 엔지니어로 일하고 있습니다.
 
+
 - 🌱 Currently learning:  
   AI-powered automation, platform engineering,  
   event-driven systems, and scalable backend architectures
