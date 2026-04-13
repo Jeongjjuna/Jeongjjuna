@@ -96,7 +96,7 @@
 <td valign="top">
     <a align="center" href="https://jeongjjuna.github.io/freak/posts/spring-security-architecture/">
         <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/spring-boot-java.png" alt=""/><br/>
-        <div>Spring Security 동작 원리, 프로세스 이해하기</div>
+        <div>[Example] Spring Security 동작 원리, 프로세스 이해하기</div>
     </a>
     <div>Spring Security가 필터 기반으로 동작하는 이유와 주요 필터들의 역할을 파해쳐보자. 위임 필터와 ...</div>
     <div>26.03.15</div>
@@ -104,7 +104,7 @@
 <td valign="top">
     <a align="center" href="https://jeongjjuna.github.io/freak/posts/spring-aop-private-method/">
         <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/spring-boot-java.png" alt=""/><br/>
-        <div>Spring AOP를 private 메서드에 적용할 수 없는 이유 (feat. @Transactional)</div>
+        <div>[Example] Spring AOP를 private 메서드에 적용할 수 없는 이유 (feat. @Transactional)</div>
     </a>
     <div>사내에서 Spring AOP를 활용한 FeatureFlag 도입을 맡게 되었다. 커스텀 어노테이션과 Spri...</div>
     <div>26.02.07</div>
@@ -114,7 +114,7 @@
 <td valign="top">
     <a align="center" href="https://jeongjjuna.github.io/freak/posts/rabbitmq-introduction/">
         <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/devops.png" alt=""/><br/>
-        <div>메시지 브로커가 뭔데, RabbitMQ 이해하기</div>
+        <div>[Example] 메시지 브로커가 뭔데, RabbitMQ 이해하기</div>
     </a>
     <div>그간 RabbitMQ를 많이 사용해왔지만 어떻게 동작하는지 자세히 학습해본적이 없어 이번 기회에 정리해보려 ...</div>
     <div>26.01.08</div>
@@ -122,7 +122,7 @@
 <td valign="top">
     <a align="center" href="https://jeongjjuna.github.io/freak/posts/docker-basics/">
         <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/docker.png" alt=""/><br/>
-        <div>Docker 기초부터 실전까지 - 컨테이너 이해하기</div>
+        <div>[Example] Docker 기초부터 실전까지 - 컨테이너 이해하기</div>
     </a>
     <div>Docker를 처음 접하면 가상머신과 뭐가 다른지, 왜 써야 하는지 막막하게 느껴진다. 이번 글에서는 Doc...</div>
     <div>25.12.15</div>
@@ -130,7 +130,7 @@
 <td valign="top">
     <a align="center" href="https://jeongjjuna.github.io/freak/posts/redis-cache-strategy/">
         <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/redis.png" alt=""/><br/>
-        <div>Redis 캐시 전략 - Cache Aside부터 Write Through까지</div>
+        <div>[Example] Redis 캐시 전략 - Cache Aside부터 Write Through까지</div>
     </a>
     <div>캐시를 도입하면 성능이 좋아진다는 건 알지만, 어떤 전략을 써야 할지 막막하다. 대표적인 캐시 전략 네 가지...</div>
     <div>25.11.20</div>
