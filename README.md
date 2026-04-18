@@ -86,6 +86,14 @@
 <!-- BLOG-POST-LIST:START -->
 <table><tbody><tr>
 <td valign="top">
+    <a align="center" href="https://jeongjjuna.github.io/freak/posts/minimum-practical-knowledge-for-developers/">
+        <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/books.png" alt=""/><br/>
+        <div>개발자를 위한 최소한의 실무 지식 독서 회고</div>
+    </a>
+    <div>개발자로서 실무에서 꼭 알아야 할 기초 지식들을 정리한 책, '개발자를 위한 최소한의 실무 지식'을 읽고 느...</div>
+    <div>26.04.18</div>
+</td>
+<td valign="top">
     <a align="center" href="https://jeongjjuna.github.io/freak/posts/spring-architecture/">
         <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/spring.png" alt=""/><br/>
         <div>아키텍처 규칙 강제하기(feat MultiModule, ArchUnit, AI Agent)</div>
@@ -95,12 +103,14 @@
 </td>
 <td valign="top">
     <a align="center" href="https://jeongjjuna.github.io/freak/posts/spring-security-architecture/">
-        <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/spring-boot-java.png" alt=""/><br/>
+        <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/security.png" alt=""/><br/>
         <div>[Example] Spring Security 동작 원리, 프로세스 이해하기</div>
     </a>
     <div>Spring Security가 필터 기반으로 동작하는 이유와 주요 필터들의 역할을 파해쳐보자. 위임 필터와 ...</div>
     <div>26.03.15</div>
 </td>
+</tr>
+<tr>
 <td valign="top">
     <a align="center" href="https://jeongjjuna.github.io/freak/posts/spring-aop-private-method/">
         <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/spring-boot-java.png" alt=""/><br/>
@@ -109,8 +119,6 @@
     <div>사내에서 Spring AOP를 활용한 FeatureFlag 도입을 맡게 되었다. 커스텀 어노테이션과 Spri...</div>
     <div>26.02.07</div>
 </td>
-</tr>
-<tr>
 <td valign="top">
     <a align="center" href="https://jeongjjuna.github.io/freak/posts/rabbitmq-introduction/">
         <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/devops.png" alt=""/><br/>
@@ -126,14 +134,6 @@
     </a>
     <div>Docker를 처음 접하면 가상머신과 뭐가 다른지, 왜 써야 하는지 막막하게 느껴진다. 이번 글에서는 Doc...</div>
     <div>25.12.15</div>
-</td>
-<td valign="top">
-    <a align="center" href="https://jeongjjuna.github.io/freak/posts/redis-cache-strategy/">
-        <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/redis.png" alt=""/><br/>
-        <div>[Example] Redis 캐시 전략 - Cache Aside부터 Write Through까지</div>
-    </a>
-    <div>캐시를 도입하면 성능이 좋아진다는 건 알지만, 어떤 전략을 써야 할지 막막하다. 대표적인 캐시 전략 네 가지...</div>
-    <div>25.11.20</div>
 </td>
 </tr></tbody></table>
 <!-- BLOG-POST-LIST:END -->
