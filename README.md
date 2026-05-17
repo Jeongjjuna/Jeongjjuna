@@ -86,6 +86,14 @@
 <!-- BLOG-POST-LIST:START -->
 <table><tbody><tr>
 <td valign="top">
+    <a align="center" href="https://jeongjjuna.github.io/freak/posts/revisiting-db-locks/">
+        <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/database.png" alt=""/><br/>
+        <div>초심 찾기! 동시성 처리를 위한 DB Lock 다시 한번 복습해보자</div>
+    </a>
+    <div>DB 동시성 제어를 위한 Lock 메커니즘을 오랜만에 다시 복습하며 정리해본다.</div>
+    <div>26.04.30</div>
+</td>
+<td valign="top">
     <a align="center" href="https://jeongjjuna.github.io/freak/posts/minimum-practical-knowledge-for-developers/">
         <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/books.png" alt=""/><br/>
         <div>개발자를 위한 최소한의 실무 지식 독서 회고</div>
@@ -101,6 +109,8 @@
     <div>아키텍처 규칙은 문서로 공유한다고 지켜지지 않는다. 멀티모듈, ArchUnit, AI Agent SKILL을...</div>
     <div>26.04.08</div>
 </td>
+</tr>
+<tr>
 <td valign="top">
     <a align="center" href="https://jeongjjuna.github.io/freak/posts/spring-security-architecture/">
         <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/security.png" alt=""/><br/>
@@ -109,8 +119,6 @@
     <div>Spring Security가 필터 기반으로 동작하는 이유와 주요 필터들의 역할을 파해쳐보자. 위임 필터와 ...</div>
     <div>26.03.15</div>
 </td>
-</tr>
-<tr>
 <td valign="top">
     <a align="center" href="https://jeongjjuna.github.io/freak/posts/spring-aop-private-method/">
         <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/spring-boot-java.png" alt=""/><br/>
@@ -126,14 +134,6 @@
     </a>
     <div>그간 RabbitMQ를 많이 사용해왔지만 어떻게 동작하는지 자세히 학습해본적이 없어 이번 기회에 정리해보려 ...</div>
     <div>26.01.08</div>
-</td>
-<td valign="top">
-    <a align="center" href="https://jeongjjuna.github.io/freak/posts/docker-basics/">
-        <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/docker.png" alt=""/><br/>
-        <div>[Example] Docker 기초부터 실전까지 - 컨테이너 이해하기</div>
-    </a>
-    <div>Docker를 처음 접하면 가상머신과 뭐가 다른지, 왜 써야 하는지 막막하게 느껴진다. 이번 글에서는 Doc...</div>
-    <div>25.12.15</div>
 </td>
 </tr></tbody></table>
 <!-- BLOG-POST-LIST:END -->
