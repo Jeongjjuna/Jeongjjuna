@@ -57,12 +57,15 @@
 </div>
 <div>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
+  <img src="https://img.shields.io/badge/Ktor-087CFA?style=flat-square&logo=ktor&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white">
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white">
 </div>
 <div>
   <img src="https://img.shields.io/badge/SQL-015f86?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-d3271a?style=flat-square&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
   <img src="https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white">
 </div>
 <div>
@@ -70,10 +73,13 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white">
   <img src="https://img.shields.io/badge/GithubActions-1750b9?style=flat-square&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/Git-3a3a3a?style=flat-square&logo=git&logoColor=white">
 </div>
 <div>
+    <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white">
     <img src="https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vue.js&logoColor=white">
     <img src="https://img.shields.io/badge/React-4FC3E8?style=flat-square&logo=react&logoColor=white">
 </div>
