@@ -84,7 +84,7 @@
 ## 📝 최근 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
-<table><tbody><tr>
+<!-- <table><tbody><tr>
 <td valign="top">
     <a align="center" href="https://jeongjjuna.github.io/freak/posts/revisiting-db-locks/">
         <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/database.png" alt=""/><br/>
@@ -135,7 +135,7 @@
     <div>그간 RabbitMQ를 많이 사용해왔지만 어떻게 동작하는지 자세히 학습해본적이 없어 이번 기회에 정리해보려 ...</div>
     <div>26.01.08</div>
 </td>
-</tr></tbody></table>
+</tr></tbody></table> -->
 <!-- BLOG-POST-LIST:END -->
 
 <br>
