@@ -119,7 +119,7 @@
 <tr>
 <td valign="top">
     <a align="center" href="https://jeongjjuna.github.io/freak/posts/2026-04-08-spring-architecture/">
-        <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/spring.png" alt="아키텍처 규칙 강제하기(feat MultiModule, ArchUnit, AI Agent)"/><br/>
+        <img width="150px" src="https://jeongjjuna.github.io/freak/images/posts/spring-architecture/archunit_01.png" alt="아키텍처 규칙 강제하기(feat MultiModule, ArchUnit, AI Agent)"/><br/>
         <div>아키텍처 규칙 강제하기(feat MultiModule, ArchUnit, AI Agent)</div>
     </a>
     <div>아키텍처 규칙은 문서로 공유한다고 지켜지지 않는다. 멀티모듈, ArchUnit, AI Agent SKI...</div>
