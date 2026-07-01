@@ -100,46 +100,30 @@
     <div>26.06.07</div>
 </td>
 <td valign="top">
-    <a align="center" href="https://jeongjjuna.github.io/freak/posts/2026-06-07-kotlin-stdlib-uuid-v7/">
-        <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/kotlin.png" alt="UUID - v7 이 무엇일까?"/><br/>
-        <div>UUID - v7 이 무엇일까?</div>
-    </a>
-    <div>UUID 에도 다양한 종류가 있어요. 코틀린 표준 라이브러리에서 지원하는 Uuid 를 알아보자.</div>
-    <div>26.06.07</div>
-</td>
-<td valign="top">
-    <a align="center" href="https://jeongjjuna.github.io/freak/posts/revisiting-db-locks/">
+    <a align="center" href="https://jeongjjuna.github.io/freak/posts/2026-04-30-revisiting-db-locks/">
         <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/database.png" alt="초심 찾기! 동시성 처리를 위한 DB Lock 다시 한번 복습해보자"/><br/>
         <div>초심 찾기! 동시성 처리를 위한 DB Lock 다시 한번 복습해보자</div>
     </a>
     <div>DB 동시성 제어를 위한 Lock 메커니즘을 오랜만에 다시 복습하며 정리해본다.</div>
     <div>26.04.30</div>
 </td>
-</tr>
-<tr>
 <td valign="top">
-    <a align="center" href="https://jeongjjuna.github.io/freak/posts/minimum-practical-knowledge-for-developers/">
+    <a align="center" href="https://jeongjjuna.github.io/freak/posts/2026-04-18-minimum-practical-knowledge-for-developers/">
         <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/books.png" alt="개발자를 위한 최소한의 실무 지식 독서 회고"/><br/>
         <div>개발자를 위한 최소한의 실무 지식 독서 회고</div>
     </a>
     <div>개발자로서 실무에서 꼭 알아야 할 기초 지식들을 정리한 책, '개발자를 위한 최소한의 실무 지식'을 읽...</div>
     <div>26.04.18</div>
 </td>
+</tr>
+<tr>
 <td valign="top">
-    <a align="center" href="https://jeongjjuna.github.io/freak/posts/spring-architecture/">
+    <a align="center" href="https://jeongjjuna.github.io/freak/posts/2026-04-08-spring-architecture/">
         <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/spring.png" alt="아키텍처 규칙 강제하기(feat MultiModule, ArchUnit, AI Agent)"/><br/>
         <div>아키텍처 규칙 강제하기(feat MultiModule, ArchUnit, AI Agent)</div>
     </a>
     <div>아키텍처 규칙은 문서로 공유한다고 지켜지지 않는다. 멀티모듈, ArchUnit, AI Agent SKI...</div>
     <div>26.04.08</div>
-</td>
-<td valign="top">
-    <a align="center" href="https://jeongjjuna.github.io/freak/posts/redis-cache-strategy/">
-        <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/redis.png" alt="[Example] Redis 캐시 전략 - Cache Aside부터 Write Through까지"/><br/>
-        <div>[Example] Redis 캐시 전략 - Cache Aside부터 Write Through까지</div>
-    </a>
-    <div>캐시를 도입하면 성능이 좋아진다는 건 알지만, 어떤 전략을 써야 할지 막막하다. 대표적인 캐시 전략 네...</div>
-    <div>25.11.20</div>
 </td>
 </tr></tbody></table>
 <!-- BLOG-POST-LIST:END -->
