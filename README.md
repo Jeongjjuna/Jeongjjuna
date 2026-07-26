@@ -135,8 +135,8 @@
 </td>
 <td valign="top">
     <a align="center" href="https://jeongjjuna.github.io/freak/posts/2026-02-22-okky-ai-vibeathon/">
-        <img width="150px" src="https://jeongjjuna.github.io/freakreview.png" alt="2026 구름 AI 컨퍼런스 참여 후기"/><br/>
-        <div>2026 구름 AI 컨퍼런스 참여 후기</div>
+        <img width="150px" src="https://jeongjjuna.github.io/freakreview.png" alt="Okky AI 바이브톤 참여 후기"/><br/>
+        <div>Okky AI 바이브톤 참여 후기</div>
     </a>
     <div>2026 Okky AI 바이브톤에서 느낀 점과 후기를 정리해봅니다.</div>
     <div>26.02.22</div>
