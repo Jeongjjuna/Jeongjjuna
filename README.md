@@ -92,6 +92,14 @@
 <!-- BLOG-POST-LIST:START -->
 <table><tbody><tr>
 <td valign="top">
+    <a align="center" href="https://jeongjjuna.github.io/freak/posts/2026-07-22-jobkorea-vibeathon/">
+        <img width="150px" src="https://jeongjjuna.github.io/freakreview.png" alt="2026 잡코리아 바이브톤 회고"/><br/>
+        <div>2026 잡코리아 바이브톤 회고</div>
+    </a>
+    <div>이벤트 시스템을 설계하고 개발하여 느꼈던 경험과 후기를 적어봅니다.</div>
+    <div>26.07.22</div>
+</td>
+<td valign="top">
     <a align="center" href="https://jeongjjuna.github.io/freak/posts/2026-06-07-jvm-security-jwt/">
         <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/security.png" alt="이론 &amp; 실습 : 초간단 JWT 직접 구현해보기"/><br/>
         <div>이론 &amp; 실습 : 초간단 JWT 직접 구현해보기</div>
@@ -107,6 +115,8 @@
     <div>DB 동시성 제어를 위한 Lock 메커니즘을 오랜만에 다시 복습하며 정리해본다.</div>
     <div>26.04.30</div>
 </td>
+</tr>
+<tr>
 <td valign="top">
     <a align="center" href="https://jeongjjuna.github.io/freak/posts/2026-04-18-minimum-practical-knowledge-for-developers/">
         <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/books.png" alt="개발자를 위한 최소한의 실무 지식 독서 회고"/><br/>
@@ -115,23 +125,21 @@
     <div>개발자로서 실무에서 꼭 알아야 할 기초 지식들을 정리한 책, '개발자를 위한 최소한의 실무 지식'을 읽...</div>
     <div>26.04.18</div>
 </td>
-</tr>
-<tr>
 <td valign="top">
     <a align="center" href="https://jeongjjuna.github.io/freak/posts/2026-04-08-spring-architecture/">
-        <img width="150px" src="https://jeongjjuna.github.io/freak/images/posts/spring-architecture/archunit_01.png" alt="아키텍처 규칙 강제하기(feat MultiModule, ArchUnit, AI Agent)"/><br/>
+        <img width="150px" src="https://jeongjjuna.github.io/freak/images/posts/archunit_01.png" alt="아키텍처 규칙 강제하기(feat MultiModule, ArchUnit, AI Agent)"/><br/>
         <div>아키텍처 규칙 강제하기(feat MultiModule, ArchUnit, AI Agent)</div>
     </a>
     <div>아키텍처 규칙은 문서로 공유한다고 지켜지지 않는다. 멀티모듈, ArchUnit, AI Agent SKI...</div>
     <div>26.04.08</div>
 </td>
 <td valign="top">
-    <a align="center" href="https://jeongjjuna.github.io/freak/posts/2025-08-01-event-system-review/">
-        <img width="150px" src="https://jeongjjuna.github.io/freakreview.png" alt="이벤트 시스템 설계 및 개발 회고"/><br/>
-        <div>이벤트 시스템 설계 및 개발 회고</div>
+    <a align="center" href="https://jeongjjuna.github.io/freak/posts/2026-02-22-okky-ai-vibeathon/">
+        <img width="150px" src="https://jeongjjuna.github.io/freakreview.png" alt="2026 구름 AI 컨퍼런스 참여 후기"/><br/>
+        <div>2026 구름 AI 컨퍼런스 참여 후기</div>
     </a>
-    <div>이벤트 시스템을 설계하고 개발하여 느꼈던 경험과 후기를 적어봅니다.</div>
-    <div>25.08.01</div>
+    <div>2026 Okky AI 바이브톤에서 느낀 점과 후기를 정리해봅니다.</div>
+    <div>26.02.22</div>
 </td>
 </tr></tbody></table>
 <!-- BLOG-POST-LIST:END -->
