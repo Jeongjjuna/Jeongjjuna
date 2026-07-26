@@ -125,6 +125,14 @@
     <div>아키텍처 규칙은 문서로 공유한다고 지켜지지 않는다. 멀티모듈, ArchUnit, AI Agent SKI...</div>
     <div>26.04.08</div>
 </td>
+<td valign="top">
+    <a align="center" href="https://jeongjjuna.github.io/freak/posts/2025-08-01-event-system-review/">
+        <img width="150px" src="https://jeongjjuna.github.io/freakreview.png" alt="이벤트 시스템 설계 및 개발 회고"/><br/>
+        <div>이벤트 시스템 설계 및 개발 회고</div>
+    </a>
+    <div>이벤트 시스템을 설계하고 개발하여 느꼈던 경험과 후기를 적어봅니다.</div>
+    <div>25.08.01</div>
+</td>
 </tr></tbody></table>
 <!-- BLOG-POST-LIST:END -->
 
