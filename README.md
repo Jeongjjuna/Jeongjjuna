@@ -96,7 +96,7 @@
         <img width="150px" src="https://jeongjjuna.github.io/freakreview.png" alt="2026 잡코리아 바이브톤 회고"/><br/>
         <div>2026 잡코리아 바이브톤 회고</div>
     </a>
-    <div>이벤트 시스템을 설계하고 개발하여 느꼈던 경험과 후기를 적어봅니다.</div>
+    <div>2026년 잡코리아 바이브톤에 참여했던 경험을 기록해보려고 합니다.</div>
     <div>26.07.22</div>
 </td>
 <td valign="top">
