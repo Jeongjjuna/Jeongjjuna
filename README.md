@@ -53,7 +53,7 @@ I'm a Backend Engineer focused on building reliable and maintainable backend sys
 <table><tbody><tr>
 <td valign="top">
     <a align="center" href="https://jeongjjuna.github.io/freak/posts/2026-07-22-jobkorea-vibeathon/">
-        <img width="150px" src="https://jeongjjuna.github.io/freakreview.png" alt="2026 잡코리아 바이브톤 회고"/><br/>
+        <img width="150px" src="https://jeongjjuna.github.io/freak/images/posts/jobkorea-vibeathon/img_8.png" alt="2026 잡코리아 바이브톤 회고"/><br/>
         <div>2026 잡코리아 바이브톤 회고</div>
     </a>
     <div>2026년 잡코리아 바이브톤에 참여했던 경험을 기록해보려고 합니다.</div>
@@ -95,7 +95,7 @@ I'm a Backend Engineer focused on building reliable and maintainable backend sys
 </td>
 <td valign="top">
     <a align="center" href="https://jeongjjuna.github.io/freak/posts/2026-02-22-okky-ai-vibeathon/">
-        <img width="150px" src="https://jeongjjuna.github.io/freakreview.png" alt="Okky AI 바이브톤 참여 후기"/><br/>
+        <img width="150px" src="https://jeongjjuna.github.io/freak/images/posts/okky-ai-vibeathon/img_6.png" alt="Okky AI 바이브톤 참여 후기"/><br/>
         <div>Okky AI 바이브톤 참여 후기</div>
     </a>
     <div>2026 Okky AI 바이브톤에서 느낀 점과 후기를 정리해봅니다.</div>
