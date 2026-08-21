@@ -61,7 +61,7 @@ I'm a Backend Engineer focused on building reliable and maintainable backend sys
 </td>
 <td valign="top">
     <a align="center" href="https://jeongjjuna.github.io/freak/posts/2026-06-07-jvm-security-jwt/">
-        <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/images/thumbnails/security.png" alt="이론 &amp; 실습 : 초간단 JWT 직접 구현해보기"/><br/>
+        <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/security.png" alt="이론 &amp; 실습 : 초간단 JWT 직접 구현해보기"/><br/>
         <div>이론 &amp; 실습 : 초간단 JWT 직접 구현해보기</div>
     </a>
     <div>암호화·서명의 차이를 알아봤으니, 이제 표준 라이브러리만으로 JWT를 직접 만들어봅니다.</div>
@@ -69,7 +69,7 @@ I'm a Backend Engineer focused on building reliable and maintainable backend sys
 </td>
 <td valign="top">
     <a align="center" href="https://jeongjjuna.github.io/freak/posts/2026-04-30-revisiting-db-locks/">
-        <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/images/thumbnails/database.png" alt="초심 찾기! 동시성 처리를 위한 DB Lock 다시 한번 복습해보자"/><br/>
+        <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/database.png" alt="초심 찾기! 동시성 처리를 위한 DB Lock 다시 한번 복습해보자"/><br/>
         <div>초심 찾기! 동시성 처리를 위한 DB Lock 다시 한번 복습해보자</div>
     </a>
     <div>DB 동시성 제어를 위한 Lock 메커니즘을 오랜만에 다시 복습하며 정리해본다.</div>
@@ -79,7 +79,7 @@ I'm a Backend Engineer focused on building reliable and maintainable backend sys
 <tr>
 <td valign="top">
     <a align="center" href="https://jeongjjuna.github.io/freak/posts/2026-04-18-minimum-practical-knowledge-for-developers/">
-        <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/images/thumbnails/books.png" alt="개발자를 위한 최소한의 실무 지식 독서 회고"/><br/>
+        <img width="150px" src="https://jeongjjuna.github.io/freak/images/thumbnails/books.png" alt="개발자를 위한 최소한의 실무 지식 독서 회고"/><br/>
         <div>개발자를 위한 최소한의 실무 지식 독서 회고</div>
     </a>
     <div>개발자로서 실무에서 꼭 알아야 할 기초 지식들을 정리한 책, '개발자를 위한 최소한의 실무 지식'을 읽...</div>
