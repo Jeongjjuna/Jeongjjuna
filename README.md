@@ -53,7 +53,7 @@ I'm a Backend Engineer focused on building reliable and maintainable backend sys
 <table width="100%"><tbody><tr>
 <td valign="top" width="33.3%">
     <a href="https://jeongjjuna.github.io/freak/posts/2026-07-22-jobkorea-vibeathon/">
-        <img src="https://jeongjjuna.github.io/freak/images/thumbnails/review.png" alt="2026 잡코리아 바이브톤 회고" width="100%" height="160" style="object-fit: cover; border-radius: 8px;"/>
+        <img src="https://jeongjjuna.github.io/freak/images/thumbnails/review.png" alt="2026 잡코리아 바이브톤 회고" width="100%" height="160" style="object-fit: contain; object-position: top; border-radius: 8px;"/>
     </a>
     <div align="left">
         <br/>
@@ -69,7 +69,7 @@ I'm a Backend Engineer focused on building reliable and maintainable backend sys
 </td>
 <td valign="top" width="33.3%">
     <a href="https://jeongjjuna.github.io/freak/posts/2026-06-07-jvm-security-jwt/">
-        <img src="https://jeongjjuna.github.io/freak/images/thumbnails/security.png" alt="이론 &amp; 실습 : 초간단 JWT 직접 구현해보기" width="100%" height="160" style="object-fit: cover; border-radius: 8px;"/>
+        <img src="https://jeongjjuna.github.io/freak/images/thumbnails/security.png" alt="이론 &amp; 실습 : 초간단 JWT 직접 구현해보기" width="100%" height="160" style="object-fit: contain; object-position: top; border-radius: 8px;"/>
     </a>
     <div align="left">
         <br/>
@@ -85,7 +85,7 @@ I'm a Backend Engineer focused on building reliable and maintainable backend sys
 </td>
 <td valign="top" width="33.3%">
     <a href="https://jeongjjuna.github.io/freak/posts/2026-04-30-revisiting-db-locks/">
-        <img src="https://jeongjjuna.github.io/freak/images/thumbnails/database.png" alt="초심 찾기! 동시성 처리를 위한 DB Lock 다시 한번 복습해보자" width="100%" height="160" style="object-fit: cover; border-radius: 8px;"/>
+        <img src="https://jeongjjuna.github.io/freak/images/thumbnails/database.png" alt="초심 찾기! 동시성 처리를 위한 DB Lock 다시 한번 복습해보자" width="100%" height="160" style="object-fit: contain; object-position: top; border-radius: 8px;"/>
     </a>
     <div align="left">
         <br/>
@@ -103,7 +103,7 @@ I'm a Backend Engineer focused on building reliable and maintainable backend sys
 <tr>
 <td valign="top" width="33.3%">
     <a href="https://jeongjjuna.github.io/freak/posts/2026-04-18-minimum-practical-knowledge-for-developers/">
-        <img src="https://jeongjjuna.github.io/freak/images/thumbnails/books.png" alt="개발자를 위한 최소한의 실무 지식 독서 회고" width="100%" height="160" style="object-fit: cover; border-radius: 8px;"/>
+        <img src="https://jeongjjuna.github.io/freak/images/thumbnails/books.png" alt="개발자를 위한 최소한의 실무 지식 독서 회고" width="100%" height="160" style="object-fit: contain; object-position: top; border-radius: 8px;"/>
     </a>
     <div align="left">
         <br/>
@@ -119,7 +119,7 @@ I'm a Backend Engineer focused on building reliable and maintainable backend sys
 </td>
 <td valign="top" width="33.3%">
     <a href="https://jeongjjuna.github.io/freak/posts/2026-04-08-spring-architecture/">
-        <img src="https://jeongjjuna.github.io/freak/images/posts/spring-architecture/archunit_01.png" alt="아키텍처 규칙 강제하기(feat MultiModule, ArchUnit, AI Agent)" width="100%" height="160" style="object-fit: cover; border-radius: 8px;"/>
+        <img src="https://jeongjjuna.github.io/freak/images/posts/spring-architecture/archunit_01.png" alt="아키텍처 규칙 강제하기(feat MultiModule, ArchUnit, AI Agent)" width="100%" height="160" style="object-fit: contain; object-position: top; border-radius: 8px;"/>
     </a>
     <div align="left">
         <br/>
@@ -135,7 +135,7 @@ I'm a Backend Engineer focused on building reliable and maintainable backend sys
 </td>
 <td valign="top" width="33.3%">
     <a href="https://jeongjjuna.github.io/freak/posts/2026-02-22-okky-ai-vibeathon/">
-        <img src="https://jeongjjuna.github.io/freak/images/thumbnails/review.png" alt="Okky AI 바이브톤 참여 후기" width="100%" height="160" style="object-fit: cover; border-radius: 8px;"/>
+        <img src="https://jeongjjuna.github.io/freak/images/thumbnails/review.png" alt="Okky AI 바이브톤 참여 후기" width="100%" height="160" style="object-fit: contain; object-position: top; border-radius: 8px;"/>
     </a>
     <div align="left">
         <br/>
