@@ -102,19 +102,19 @@ I'm a Backend Engineer focused on building reliable and maintainable backend sys
 </tr>
 <tr>
 <td valign="top" width="33.3%">
-    <a href="https://jeongjjuna.github.io/freak/posts/2026-04-18-minimum-practical-knowledge-for-developers/">
-        <img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2FJeongjjuna%2Ffreak%2Fmain%2Fpublic%2Fimages%2Fthumbnails%2Fbooks.png&amp;w=600&amp;h=640&amp;fit=cover&amp;a=t" alt="개발자를 위한 최소한의 실무 지식 독서 회고" width="100%" style="border-radius: 8px;"/>
+    <a href="https://jeongjjuna.github.io/freak/posts/2026-08-20-minimalism-programmer/">
+        <img src="https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2FJeongjjuna%2Ffreak%2Fmain%2Fpublic%2Fimages%2Fthumbnails%2Fbooks.png&amp;w=600&amp;h=640&amp;fit=cover&amp;a=t" alt="미니멀리즘 프로그래머 독서 회고" width="100%" style="border-radius: 8px;"/>
     </a>
     <div align="left">
         <br/>
-        <a href="https://jeongjjuna.github.io/freak/posts/2026-04-18-minimum-practical-knowledge-for-developers/">
-            <strong>개발자를 위한 최소한의 실무 지식 독서 회고</strong>
+        <a href="https://jeongjjuna.github.io/freak/posts/2026-08-20-minimalism-programmer/">
+            <strong>미니멀리즘 프로그래머 독서 회고</strong>
         </a>
         <div>
             <small>26.04.18</small>
         </div>
         <br/>
-        <div>개발자로서 실무에서 꼭 알아야 할 기초 지식들을 정리한 책, '개발자를 위한 최소한의 실무 지식'을 읽고 느낀 점과 핵심 내용을 정리합니다.</div>
+        <div>'미니멀리즘 프로그래머' 도서 회고록</div>
     </div>
 </td>
 <td valign="top" width="33.3%">
